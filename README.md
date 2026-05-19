@@ -1,5 +1,8 @@
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:a29bfe&height=200&section=header&text=Krish%20Mojidra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS+Engineer+%7C+Competitive+Programmer+%7C+Open+Source+Contributor&descSize=16&descAlignY=60&descColor=ffffff" width="100%"/>
+
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Krish+Mojidra+👋;CS+Engineer+%40+Nirma+University;Competitive+Programmer+⚡;DSA+%7C+Java+%7C+C%2B%2B+Enthusiast)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Krish-3010&color=6C63FF&style=flat-square&label=Profile+Views)
@@ -29,6 +32,7 @@ class Krish {
 - 💻 Passionate about **Data Structures, Algorithms & System-level programming**
 - ⚡ Active **Competitive Programmer** — LeetCode + Codeforces grinder
 - 🔨 Love building tools that solve real problems
+- 🌍 **GSSoC 2026 Contributor** — Open Source Enthusiast
 - 📍 Based in **Ahmedabad, India**
 
 ---
@@ -40,10 +44,33 @@ class Krish {
 | Platform | Rating | Problems Solved |
 |----------|--------|----------------|
 | 🟡 **LeetCode** | ⭐ 1602 | 350+ |
-| 🔵 **Codeforces** | 💙 1038 | 400+ |
+| 🔵 **Codeforces** | 💙 1039 | 390+ |
 | 🟢 **HackerRank** | ⭐⭐⭐⭐⭐ 5★ Gold in C++ | — |
 
+<br/>
+
+<a href="https://leetcode.com/u/Neverrrminddd/"> <img src="https://leetcard.jacoblin.cool/Neverrrminddd?theme=dark&font=Share%20Tech%20Mono&ext=contest" width="47%" /> </a>
+&nbsp;
+<a href="https://codeforces.com/profile/Krish3010">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Krish3010&theme=dark&force_username=true&border_color=6C63FF" width="47%" />
+</a>
+
 </div>
+
+---
+
+## 🌍 Open Source
+
+<div align="center">
+
+![GSSoC 2026](https://img.shields.io/badge/GSSoC_2026-Contributor-orange?style=for-the-badge&logo=git&logoColor=white)
+&nbsp;
+![Open Source](https://img.shields.io/badge/Open_Source-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+- 🤝 Actively contributing to open source projects under **GirlScript Summer of Code 2026**
+- 🔃 Raising PRs, reviewing issues, and collaborating with the community
 
 ---
 
@@ -90,13 +117,6 @@ class Krish {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krish-3010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-3010&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Krish-3010&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
@@ -127,6 +147,7 @@ class Krish {
 
 - ✅ **Problem Solving (Basic)** — HackerRank
 - ⭐ **5-Star Gold Badge in C++** — HackerRank
+- 🌍 **GSSoC 2026 Contributor** — GirlScript Summer of Code
 
 ---
 
@@ -134,10 +155,10 @@ class Krish {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-mojidra-3010)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-mojidra-b0850737a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishmojidra3010@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Krish_3010)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Krish_3010)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Neverrrminddd/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Krish3010)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krish-3010)
 
 </div>
@@ -149,3 +170,6 @@ class Krish {
 *"Code it. Break it. Fix it. Ship it."* 🚀
 
 </div>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a29bfe,100:6C63FF&height=130&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
